@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Dev/UnrealProjects/SimpleCollectorGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/0I/0PXPLZ76IWADZO9D6J4VWA.uasset",
+				"C:/Dev/UnrealProjects/SimpleCollectorGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/J7/PO827IAOVEIWB0L32SJ3UV.uasset",
+				"C:/Dev/UnrealProjects/SimpleCollectorGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/VQ/48IA2LXY2E6XZ2HD2LY8KA.uasset",
+				"C:/Dev/UnrealProjects/SimpleCollectorGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/4S/JIHXB3XXSA69XB2EULOFPQ.uasset",
+				"C:/Dev/UnrealProjects/SimpleCollectorGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/XD/M901JG1UG556ZC555MXSEL.uasset",
+				"C:/Dev/UnrealProjects/SimpleCollectorGame/Content/Characters/Cube/Material_001.uasset",
+				"C:/Dev/UnrealProjects/SimpleCollectorGame/Content/Characters/Cube/crate.uasset"
+			]
+		}
+	]
+}
